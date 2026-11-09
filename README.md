@@ -29,6 +29,10 @@ The supplied resume reports employment at **LET'S DO YOUR PLAN, August 2023-Marc
 
 No email is sent and no real candidate data is needed. Demo credentials are intentionally public. This local demonstration does not include account registration, production identity management or a real calendar/email provider.
 
+## Workbook roadmap
+
+Read the [simulation roadmap and feature-to-source map](docs/simulation-roadmap.md) derived from `portfolio_daily_activity_simulation_2023_2026.xlsx`. Its dates and slot counts are hypothetical planning data. Commits retain their actual creation dates.
+
 ## Run locally
 
 Requirements: PHP 8.5 recommended (locked dependencies require 8.4.1+), Composer 2, and SQLite/PDO SQLite, mbstring, intl, DOM/XML and fileinfo extensions. No Node build is required.

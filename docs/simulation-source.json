@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "classification": "SYNTHETIC PLANNING DATA - NOT HISTORICAL GIT DATA",
+  "project": "Teamline",
+  "prepared_on": "2026-11-10",
+  "source_file": "portfolio_daily_activity_simulation_2023_2026.xlsx",
+  "source_sha256": "2603bf41d899d5216e935309785acdd4b4748bccf722b1b5fd2e5161b621b9de",
+  "sheets_used": [
+    "Overview",
+    "Daily Plan",
+    "Commit Schedule",
+    "Monthly Roadmap",
+    "Repository Notes"
+  ],
+  "simulation_start": "2024-12-02",
+  "simulation_end": "2025-07-31",
+  "planned_weekdays": 174,
+  "synthetic_planned_slots": 1044,
+  "planned_slots_per_weekday": 6,
+  "status": "Synthetic plan",
+  "phase_days": {
+    "Architecture & scope": 17,
+    "Core data model": 27,
+    "Primary workflows": 41,
+    "Search & usability": 26,
+    "Integrity & security": 25,
+    "Regression testing": 21,
+    "Polish & documentation": 17
+  },
+  "work_areas": [
+    "recruitment workflow scope",
+    "pipeline stages",
+    "sample candidates",
+    "recruiter permissions",
+    "audit event model",
+    "organization boundary",
+    "interview rules",
+    "recruiter roles",
+    "job roles",
+    "interview slots",
+    "organizations",
+    "applications",
+    "audit tables",
+    "candidate records",
+    "interview booking",
+    "duplicate prevention",
+    "pipeline advancement",
+    "interview cancellation",
+    "candidate intake",
+    "rejection flow",
+    "offer transition",
+    "role assignment",
+    "recruiter dashboard",
+    "candidate search",
+    "interview calendar list",
+    "responsive recruiter UI",
+    "pipeline overview",
+    "Livewire forms",
+    "role filters",
+    "candidate overlap checks",
+    "append-only audit controls",
+    "atomic audit records",
+    "UTC schedule normalization",
+    "optimistic version checks",
+    "organization isolation",
+    "interviewer overlap checks",
+    "audit rollback tests",
+    "duplicate application tests",
+    "stale update tests",
+    "cross-org denial tests",
+    "calendar conflict tests",
+    "role access tests",
+    "pipeline guard tests",
+    "seeded demo flows",
+    "user guide",
+    "accessible labels",
+    "CI checks",
+    "read-only account view",
+    "performance review",
+    "release notes"
+  ],
+  "monthly_roadmap": [
+    {
+      "month": "2024-12",
+      "planned_weekdays": 22,
+      "synthetic_planned_slots": 132,
+      "topics": [
+        "recruitment workflow scope",
+        "pipeline stages",
+        "sample candidates",
+        "recruiter permissions"
+      ]
+    },
+    {
+      "month": "2025-01",
+      "planned_weekdays": 23,
+      "synthetic_planned_slots": 138,
+      "topics": [
+        "organizations",
+        "applications",
+        "audit tables",
+        "candidate records"
+      ]
+    },
+    {
+      "month": "2025-02",
+      "planned_weekdays": 20,
+      "synthetic_planned_slots": 120,
+      "topics": [
+        "duplicate prevention",
+        "pipeline advancement",
+        "interview cancellation",
+        "candidate intake"
+      ]
+    },
+    {
+      "month": "2025-03",
+      "planned_weekdays": 21,
+      "synthetic_planned_slots": 126,
+      "topics": [
+        "offer transition",
+        "role assignment",
+        "interview booking",
+        "duplicate prevention"
+      ]
+    },
+    {
+      "month": "2025-04",
+      "planned_weekdays": 22,
+      "synthetic_planned_slots": 132,
+      "topics": [
+        "candidate search",
+        "interview calendar list",
+        "responsive recruiter UI",
+        "pipeline overview"
+      ]
+    },
+    {
+      "month": "2025-05",
+      "planned_weekdays": 22,
+      "synthetic_planned_slots": 132,
+      "topics": [
+        "responsive recruiter UI",
+        "pipeline overview",
+        "Livewire forms",
+        "candidate overlap checks"
+      ]
+    },
+    {
+      "month": "2025-06",
+      "planned_weekdays": 21,
+      "synthetic_planned_slots": 126,
+      "topics": [
+        "append-only audit controls",
+        "candidate overlap checks",
+        "atomic audit records",
+        "UTC schedule normalization"
+      ]
+    },
+    {
+      "month": "2025-07",
+      "planned_weekdays": 23,
+      "synthetic_planned_slots": 138,
+      "topics": [
+        "calendar conflict tests",
+        "role access tests",
+        "pipeline guard tests",
+        "audit rollback tests"
+      ]
+    }
+  ],
+  "commit_timestamp_changes": false,
+  "historical_completion_claim": false
+}
